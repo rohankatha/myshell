@@ -1,0 +1,1 @@
+void sig(int ert , int gul);

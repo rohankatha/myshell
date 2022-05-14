@@ -1,0 +1,1 @@
+void bg(int a);
